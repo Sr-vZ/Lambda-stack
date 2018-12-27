@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=71cd5XerKss
+https://serverless.com/
+https://hackernoon.com/running-and-debugging-aws-lambda-functions-locally-with-the-serverless-framework-and-vs-code-a254e2011010
+https://hackernoon.com/how-to-deploy-a-node-js-application-to-aws-lambda-using-serverless-ae7e7ebe0996
